@@ -1,0 +1,136 @@
+ body {
+            font-family: sans-serif; /* Example basic font */
+        }
+ .hero {
+            padding: 80px 0;
+            text-align: left;
+            border-bottom-left-radius: 90px;
+        }
+
+.portfolio-section {
+            margin-bottom: 30px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+.portfolio-section img{
+            max-width: 100%;
+             height: auto;
+             display: block;
+}
+  .portfolio-item {
+         margin-bottom: 30px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+  }
+
+  .portfolio-item img{
+             max-width: 100%;
+             height: auto;
+             display: block;
+}
+
+.portfolio-card{
+            margin-bottom: 30px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+}
+
+.portfolio-card img{
+            max-width: 100%;
+             height: auto;
+             display: block;
+}
+
+.portfolio-navigation{
+            margin-bottom: 30px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+}
+  
+.portfolio-navigation img{
+             max-width: 100%;
+             height: auto;
+             display: block;
+}
+
+.about{
+    margin-bottom: 30px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+}
+
+       .project-details {
+            padding: 20px;
+ }
+       
+
+.Contact-me {
+            padding: 50px 0;
+            text-align: center;
+            justify-content: centers;
+            border-top-left-radius: 90px;
+        }
+
+        .text-start {
+            justify-content: center;
+        }
+
+        .mb-3 {
+            justify-content: center;
+        }
+
+.scattered-img {
+        position: absolute;
+        width: 100px;
+        }
+        
+        
+.img1 {
+    top: 100px;
+     right: 100px;
+        }
+
+ .img2 {
+    top: 100px;
+    left: 100px;
+ }
+
+ .img3 {
+    top: 30px;
+    left: 90px;
+ }
+
+ .img4 {
+    top: 10px;
+     right: 400px;
+ }
+
+.img5 {
+ top: 10px;
+     right: 90px;
+}
+
+.img6 {
+    bottom: 40px;
+    left: 200px;
+ }
+
+ .img7 {
+    bottom: 50px;
+    left: 300px;
+ }
+
+ .img8 {
+    bottom: 20px;
+    right: 200px;
+ }
+ 
+ .img9 {
+    bottom: 40px;
+    right: 100px;
+ }
